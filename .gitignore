@@ -1,0 +1,5 @@
+.env
+venv/
+tester.R
+tester/
+.Rhistory
